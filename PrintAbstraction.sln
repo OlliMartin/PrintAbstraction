@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAbstractionCore", "PrintAbstractionCore\PrintAbstractionCore.csproj", "{78F33F57-F819-42C5-8EBC-870135A1C80D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAbstractionConsole", "PrintAbstractionConsole\PrintAbstractionConsole.csproj", "{B704C203-ACE8-4035-AD28-1AB9CAE56994}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{78F33F57-F819-42C5-8EBC-870135A1C80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78F33F57-F819-42C5-8EBC-870135A1C80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78F33F57-F819-42C5-8EBC-870135A1C80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B704C203-ACE8-4035-AD28-1AB9CAE56994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B704C203-ACE8-4035-AD28-1AB9CAE56994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B704C203-ACE8-4035-AD28-1AB9CAE56994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B704C203-ACE8-4035-AD28-1AB9CAE56994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
